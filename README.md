@@ -12,7 +12,7 @@ Ce site présente une implémentation soignée des concepts CSS de base et avanc
 * **Thème Sombre (`Dark Mode`) :** Un schéma de couleurs sombre a été appliqué pour un affichage élégant et agréable à l'œil.
 * **Typographie :** Utilisation de la police Open Sans importée via Google Fonts.
 * **Mise en Page Flottante (`float`) :** Les images des figures sont alignées à l'aide de la propriété float: left;.
-* **Nettoyage du Flux (`clear`):** La propriété clear: both; est utilisée sur les titres (<h2>) pour garantir que les sections de l'histoire reprennent le flux normal sous les images flottantes.
+* **Nettoyage du Flux (`clear`):** La propriété clear: both; est utilisée sur les titres (h2) pour garantir que les sections de l'histoire reprennent le flux normal sous les images flottantes.
 * **Listes Personnalisées :**
     * Les puces de la liste sont remplacées par des images de fond (background-image).
     * Le dernier élément utilise un **pseudo-élément (`::before`)** avec un caractère Unicode (❌) pour simuler l'alignement des icônes.
@@ -27,7 +27,7 @@ Ce projet ne nécessite aucun environnement de développement complexe.
 
 1. **Cloner le dépôt :**
     ```bash
-    git clone [URL_DE_VOTRE_DEPOT]
+    git clone https://github.com/Drylow/chinese-farmer
     ```
 2. **Ouvrir le fichier :**
     * Naviguez jusqu'au dossier du projet.
