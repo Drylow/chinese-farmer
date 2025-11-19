@@ -216,7 +216,7 @@ ul li:nth-child(4)::before {
 }
 
 
-/* 8. Footer et notification */
+/* Footer et notification */
 
 
 footer {
@@ -241,4 +241,56 @@ footer {
     font-size: 0.9em;
     font-weight: bold;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4); 
+
+}
+
+
+@media screen and (max-width: 768px) {
+    
+    body {
+        font-size: 16px; 
+        max-width: 95%; 
+    }
+    
+  
+    h1 {
+        font-size: 2em; 
+        text-align: center;
+    }
+    h2 {
+        font-size: 1.5em; 
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    figure {
+        float: none; 
+        width: 100%; 
+        margin: 20px auto; 
+        text-align: center; 
+    }
+    
+
+    blockquote {
+        width: 90%;
+        margin: 40px auto; 
+        padding: 20px; 
+        font-size: 130%; 
+    }
+    
+
+    th, td {
+        padding: 10px;
+        text-align: left; 
+    }
+    
+ 
+    .notification {
+
+        left: 50%; 
+        transform: translateX(-50%); 
+        right: auto; 
+        padding: 12px 20px;
+        bottom: 15px; 
+    }
 }
