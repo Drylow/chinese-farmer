@@ -8,7 +8,7 @@ Ce projet est la réalisation d'un article en ligne basé sur la célèbre parab
 
 Ce site présente une implémentation soignée des concepts CSS de base et avancés :
 
-* **HTML Sémantique :** Utilisation des balises <header>, <blockquote>, <figure>, <table>, <footer>, etc., pour structurer clairement le contenu.
+* **HTML Sémantique :** Utilisation des balises header, blockquote, figure, table, footer, etc., pour structurer clairement le contenu.
 * **Thème Sombre (`Dark Mode`) :** Un schéma de couleurs sombre a été appliqué pour un affichage élégant et agréable à l'œil.
 * **Typographie :** Utilisation de la police Open Sans importée via Google Fonts.
 * **Mise en Page Flottante (`float`) :** Les images des figures sont alignées à l'aide de la propriété float: left;.
