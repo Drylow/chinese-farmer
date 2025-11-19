@@ -21,17 +21,13 @@ Ce site présente une implémentation soignée des concepts CSS de base et avanc
 
 ---
 
-## 🚀 Installation et Lancement
+## 🚀 Installation et Déploiement
 
-Ce projet ne nécessite aucun environnement de développement complexe.
+### Site Web Publié
 
-1. **Cloner le dépôt :**
-    ```bash
-    git clone https://github.com/Drylow/chinese-farmer
-    ```
-2. **Ouvrir le fichier :**
-    * Naviguez jusqu'au dossier du projet.
-    * Ouvrez le fichier index.html directement dans votre navigateur web (Chrome, Firefox, etc.).
+Le projet est hébergé via GitHub Pages et est accessible directement ici :
+
+➡️ **[Voir le site en ligne (drylow.github.io/chinese-farmer)](https://drylow.github.io/chinese-farmer/)**
 
 ---
 
